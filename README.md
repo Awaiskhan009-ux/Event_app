@@ -1,16 +1,33 @@
-# my_events_2025
+# 🎉 Event App
 
-A new Flutter project.
+A Flutter mobile app that helps users view and manage local events with an intuitive UI.  
+This project demonstrates Flutter development skills, **GetX state management**, and clean app architecture.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📅 View future events
+- ➕ Create events
+- 🔍 Search events by name or category
+- 🗓️ Event details screen
+- 🚀 Simple and clean UI
+- ⚡ **State management with GetX** (for reactive UI and efficient navigation)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Tech Stack
+
+- **Flutter** (Dart)
+- **GetX** (state management & routing)
+- **Firebase (optional)** for backend  
+- **Cloud Firestore / Local storage**
+
+---
+
+## 📥 Installation & Setup
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/Awaiskhan009-ux/Event_app.git
